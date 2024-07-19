@@ -119,11 +119,9 @@ fun WeatherData(data:WeatherModel){
         data.current?.condition?.text?.let {
             Text(text = it,
                 fontSize = 20.sp,
-                color = Color.Gray
+                color = Color.Black
             )
         }
-
     }
-
 }
 
