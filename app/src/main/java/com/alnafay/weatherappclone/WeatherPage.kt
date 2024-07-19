@@ -122,7 +122,6 @@ fun WeatherData(data:WeatherModel){
                 color = Color.Black
             )
         }
-
     }
 
 }
